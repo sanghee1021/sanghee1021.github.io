@@ -10,8 +10,6 @@ Welcome to Sanghee Moon's homepage. I am a Ph.D. candidate (defending soon! July
 layout: default
 ---
 
-<i class="fab fa-github"></i>
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
