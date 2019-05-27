@@ -7,7 +7,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Updates
 
 * July 9, 2019 - Ph.D. Dissertation Defense
-* May 18-19, 2019 - Graduation ceremony @ Kansas City, KS and [commencement](./assets/img/sanghee with jay.png) @ Lawrence, KS
+* May 18-19, 2019 - [Graduation ceremony](./assets/img/sanghee graduation.png) @ Kansas City, KS and [commencement](./assets/img/sanghee with jay.png) @ Lawrence, KS
 
 ## Random facts
 
