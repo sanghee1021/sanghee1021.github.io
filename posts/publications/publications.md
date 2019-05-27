@@ -11,7 +11,7 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
 
 **S Moon**, M Ranchet, AE Akinwuntan, M Tant, DB Carr, MA Raji, H Devos. (2018) [The impact of advanced age on driving safety in adults with medical conditions](https://doi.org/10.1159/000486511). Gerontology.
     
-**S Moon**, M Ranchet, M Tant, AE Akinwuntan, H Devos. (2017) [Comparison of unsafe driving across medical conditions](https://doi.org/10.1016/j.mayocp.2017.06.003). Mayo Clinic Proceedings. 92(9), 1341-1350. [Youtube video](https://youtu.be/AHI1rSI-op0).
+**S Moon**, M Ranchet, M Tant, AE Akinwuntan, H Devos. (2017) [Comparison of unsafe driving across medical conditions](https://doi.org/10.1016/j.mayocp.2017.06.003). Mayo Clinic Proceedings. 92(9), 1341-1350. [[Youtube video]](https://youtu.be/AHI1rSI-op0) [[Editorial comment]](https://www.mayoclinicproceedings.org/article/S0025-6196(17)30570-0/fulltext#intraref0010a)
     
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2017) [Qigong may alter TNF-alpha in serum and improve sleep in patients with Parkinson's disease](https://doi.org/10.3390/medicines4020023). Medicines. 4(2), 23.
 
