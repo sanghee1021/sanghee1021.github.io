@@ -1,5 +1,4 @@
-[Publication](./posts/index_example.md).
-
+[**Publication**](./posts/index_example.md)  [**Test**](./posts/index_example.md)  
 
 ## Welcome
 
