@@ -7,11 +7,11 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Updates
 
 * July 9, 2019 - Ph.D. Dissertation Defense
-* May 18-19, 2019 - Graduation ceremony @ Kansas City, KS and commencement @ Lawrence, KS
+* May 18-19, 2019 - Graduation ceremony @ Kansas City, KS and [commencement](./assets/img/sanghee with jay.png) @ Lawrence, KS
 
 ## Random facts
 
 * A die-hard fan of Kansas Jayhawk Basketball. Rock Chalk!! Once a jayhawk, always a jayhawk.
 * Love Kansas City Chiefs and Royals. Oh.. my lord. I really want to see Pat Mahomes and Chiefs win it all this season.
 * Like jogging, hiking, and traveling national parks. My wife and I have visited cities and national parks in 45 states "by car".
-* My cat's name is Snickers! The cutest cat ever.
+* My cat's name is [Snickers](assets/img/family pic.png)! The cutest cat ever.
