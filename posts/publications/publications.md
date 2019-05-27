@@ -1,7 +1,15 @@
+Publications
+---
 
----
-layout: default
----
+## A protocol for a randomized controlled trial
+
+hello?
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
