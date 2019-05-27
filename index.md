@@ -6,6 +6,13 @@ Welcome to Sanghee Moon's homepage. I am a Ph.D. candidate (defending soon! July
 
 * July 9, 2019 - Ph.D. Dissertation Defense
 
+
+
+Example texts below.....
+
+
+
+
 ---
 layout: default
 ---
