@@ -12,6 +12,6 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Random facts
 
 * A die-hard fan of Kansas Jayhawk Basketball. Rock Chalk!! Once a jayhawk, always a jayhawk.
-* Love Kansas City Chiefs and Royals. Oh.. my lord. I really want to see Pat Mahomes win it all this season.
-* Like jogging, hiking, and traveling national parks. My wife and I have visited cities and national parks in 45 states "by car". The most liked states by me and my wife so far: Colorado, Utah, and North Carolina.
-* My cat's name is Snickers!
+* Love Kansas City Chiefs and Royals. Oh.. my lord. I really want to see Pat Mahomes and Chiefs win it all this season.
+* Like jogging, hiking, and traveling national parks. My wife and I have visited cities and national parks in 45 states "by car".
+* My cat's name is Snickers! The cutest cat ever.
