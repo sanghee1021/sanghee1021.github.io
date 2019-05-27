@@ -15,3 +15,5 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 * Love Kansas City Chiefs and Royals. Oh.. my lord. I really want to see Pat Mahomes and Chiefs win it all this season.
 * Like jogging, hiking, and traveling national parks. My wife and I have visited cities and national parks in 45 states "by car".
 * My cat's name is [Snickers](assets/img/family pic.png)! The cutest cat ever.
+
+###### Last update: 5/27/2019
