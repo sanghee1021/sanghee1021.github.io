@@ -45,7 +45,7 @@ CVM Sarmento, **S Moon**, T Pfeifer, W Liu. The altered immune response to exerc
 
 JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2018) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Supportive Care in Cancer. _(Submitted; Under Review)_
     
-custombold{S Moon}, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation. _(Submitted; Under Review)_
+**S Moon**, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation. _(Submitted; Under Review)_
     
 AS Alqahtani, R Alajam, **S Moon**, CVM Sarmento, SM Eickmeyer, S Jernigan, IV Smirnova, W Liu. Reduction of risk for cardiovascular disease in non-ambulatory stroke survivors using an assisted-walking aerobic exercise: A pilot study. Clinical Rehabilitation. _(Submitted)_
     
