@@ -5,7 +5,7 @@ Academic publications
 
 **S Moon**, CVM Sarmento, IV Smirnova, Y Colgrove, K Lyons, SM Lai, W Liu. (2019) [Effects of Qigong exercise on non-motor symptoms in Parkinson's disease: A protocol for a randomized controlled trial](https://doi.org/10.3390/medicines6010013). Medicines. 6(1), 13.
 
-JS Myers, M Kahya, M Mitchell, J He, J Dai, **S Moon**, K Hamilton, M Valla, A O`Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2018) [Pupillary response: cognitive effort for breast cancer survivors](https://doi.org/10.1007/s00520-018-4401-0). Supportive Care in Cancer.
+JS Myers, M Kahya, M Mitchell, J He, J Dai, **S Moon**, K Hamilton, M Valla, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2018) [Pupillary response: cognitive effort for breast cancer survivors](https://doi.org/10.1007/s00520-018-4401-0). Supportive Care in Cancer.
 
 M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary response to cognitive demand in Parkinson's disease: A pilot study](https://doi.org/10.3389/fnagi.2018.00090). Frontiers in Aging Neuroscience. 10, 90.
 
@@ -14,6 +14,22 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
 **S Moon**, M Ranchet, M Tant, AE Akinwuntan, H Devos. (2017) [Comparison of unsafe driving across medical conditions](https://doi.org/10.1016/j.mayocp.2017.06.003). Mayo Clinic Proceedings. 92(9), 1341-1350. [Youtube video](https://youtu.be/AHI1rSI-op0).
     
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2017) [Qigong may alter TNF-alpha in serum and improve sleep in patients with Parkinson's disease](https://doi.org/10.3390/medicines4020023). Medicines. 4(2), 23.
+
+---
+
+### Published conference abstracts
+
+**S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2018) [Can a mindfulness exercise make your sleep better and change your inflammatory status in Parkinson's disease?](https://doi.org/10.1016/j.apmr.2018.09.014). American Congress of Rehabilitation Medicine.
+
+**S Moon**, M Kahya, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [The eyes as a window to understanding abstract reasoning in Parkinson's disease](https://doi.org/10.1016/j.apmr.2018.09.082). American Congress of Rehabilitation Medicine. Dallas, TX.
+    
+**S Moon**, M Ranchet, M Tant, A Akinwuntan, D Carr, M Raji, H Devos. (2018) [Risks of Unsafe Driving in the Oldest-old With Medical Conditions: A Comparative Analysis](https://doi.org/10.1016/j.apmr.2018.07.266). American Congress of Rehabilitation Medicine. Dallas, TX.
+    
+**S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2018) [A mindfulness exercise may improve sleep quality and change inflammatory biomarker level in Parkinson's disease: A pilot study](https://doi.org/10.1002/mds.27434). Pan American Parkinson’s Disease and Movement Disorder Congress, Miami, FL.
+
+M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased mental effort during abstract thinking and verbal reasoning in Parkinson's disease: A pilot study](https://doi.org/10.1002/mds.27434). Pan American Parkinson’s Disease and Movement Disorder congress, Miami, FL.
+    
+**S Moon**, M Ranchet, M Tant, A Akinwuntan, H Devos. (2017) [Comparative analysis of unsafe driving risk in medical conditions](https://doi.org/10.1016/j.apmr.2017.08.141). American Congress of Rehabilitation Medicine, Atlanta, GA.
 
 ---
 
