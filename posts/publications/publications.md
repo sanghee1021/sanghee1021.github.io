@@ -51,6 +51,9 @@ AS Alqahtani, R Alajam, **S Moon**, CVM Sarmento, SM Eickmeyer, S Jernigan, IV S
     
 AS Alqahtani, R Alajam, **S Moon**, CVM Sarmento, IV Smirnova, M Pang, M Phadnis, W Liu. Changes in bone biomarkers after an 8-week walking exercise in non-ambulatory stroke survivors - A pilot study. _(In submission)_
 
+CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, Y Colgrove, M Maz, W Liu. Immune response to a bout of high-intensity
+exercise in females with fibromyalgia: A pilot study. _(In submission)_
+
 ---
 
 ### Manuscripts in preparation
