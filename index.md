@@ -6,14 +6,14 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 
 ## Updates
 
-* July 9, 2019 - Ph.D. Dissertation Defense
-* May 18-19, 2019 - [Graduation ceremony](./assets/img/sanghee graduation.png) @ Kansas City, KS and [commencement](./assets/img/sanghee with jay.png) @ Lawrence, KS
+* July 9, 2019 - Ph.D. Dissertation Defense :sunglasses:
+* May 18-19, 2019 - [Graduation ceremony](./assets/img/sanghee graduation.png) @ Kansas City, KS and [commencement](./assets/img/sanghee with jay.png) @ Lawrence, KS :mortar_board:
 
 ## Random facts
 
-* A die-hard fan of Kansas Jayhawk Basketball:basketball:. Rock Chalk!! Once a jayhawk, always a jayhawk.
-* Love Kansas City Chiefs and Royals. Oh.. my lord. I really want to see Pat Mahomes and Chiefs win it all this season.
-* Like jogging, hiking, and traveling national parks. My wife and I have visited cities and national parks in 45 states "by car".
-* My cat's name is [Snickers](assets/img/family pic.png)! The cutest cat ever.
+* A die-hard fan of Kansas Jayhawk Basketball :basketball:. Rock Chalk!! Once a jayhawk, always a jayhawk.
+* Love Kansas City Chiefs :football: and Royals :baseball:. Oh.. my lord. I really want to see Pat Mahomes and Chiefs win it all this season.
+* Like jogging :running:, hiking :mount_fuji:, and traveling national parks :evergreen_tree:. My wife and I have visited cities and national parks in 45 states "by car" :oncoming_automobile:.
+* :smile_cat: My cat's name is [Snickers](assets/img/family pic.png)! The cutest cat ever.
 
 ###### Last update: 5/27/2019
