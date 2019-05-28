@@ -65,3 +65,5 @@ exercise in females with fibromyalgia: A pilot study. _(In submission)_
 **S Moon**, HJ Song, K Kipp, VD Sharma, K Lyons, AE Akinwuntan, H Devos. Classification of Parkinsonism using artificial neural networks: A retrospective database study. _(In preparation)_
 
 VD Sharma, **S Moon**, H Devos, K Lyons, R Pahwa. Quantitative gait assessment of patients with essential tremor using wireless sensors. _(In preparation)_
+
+[<< Back to Home](./index.md)
