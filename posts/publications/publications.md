@@ -5,11 +5,11 @@ Academic publications
 
 **S Moon**, CVM Sarmento, IV Smirnova, Y Colgrove, K Lyons, SM Lai, W Liu. (2019) [Effects of Qigong exercise on non-motor symptoms in Parkinson's disease: A protocol for a randomized controlled trial](https://doi.org/10.3390/medicines6010013). Medicines. 6(1), 13.
 
-JS Myers, M Kahya, M Mitchell, J He, J Dai, **S Moon**, K Hamilton, M Valla, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2018) [Pupillary response: cognitive effort for breast cancer survivors](https://doi.org/10.1007/s00520-018-4401-0). Supportive Care in Cancer.
+JS Myers, M Kahya, M Mitchell, J He, J Dai, **S Moon**, K Hamilton, M Valla, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2018) [Pupillary response: cognitive effort for breast cancer survivors](https://doi.org/10.1007/s00520-018-4401-0). Supportive Care in Cancer. 27(3), 1121-1128.
 
 M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary response to cognitive demand in Parkinson's disease: A pilot study](https://doi.org/10.3389/fnagi.2018.00090). Frontiers in Aging Neuroscience. 10, 90.
 
-**S Moon**, M Ranchet, AE Akinwuntan, M Tant, DB Carr, MA Raji, H Devos. (2018) [The impact of advanced age on driving safety in adults with medical conditions](https://doi.org/10.1159/000486511). Gerontology.
+**S Moon**, M Ranchet, AE Akinwuntan, M Tant, DB Carr, MA Raji, H Devos. (2018) [The impact of advanced age on driving safety in adults with medical conditions](https://doi.org/10.1159/000486511). Gerontology. 64(3), 291-299.
     
 **S Moon**, M Ranchet, M Tant, AE Akinwuntan, H Devos. (2017) [Comparison of unsafe driving across medical conditions](https://doi.org/10.1016/j.mayocp.2017.06.003). Mayo Clinic Proceedings. 92(9), 1341-1350. [[Youtube video]](https://youtu.be/AHI1rSI-op0) [[Editorial comment]](https://www.mayoclinicproceedings.org/article/S0025-6196(17)30570-0/fulltext#intraref0010a)
     
