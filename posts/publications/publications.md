@@ -19,7 +19,7 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
 
 ### Published conference abstracts
 
-**S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2018) [Can a mindfulness exercise make your sleep better and change your inflammatory status in Parkinson's disease?](https://doi.org/10.1016/j.apmr.2018.09.014). American Congress of Rehabilitation Medicine.
+**S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2018) [Can a mindfulness exercise make your sleep better and change your inflammatory status in Parkinson's disease?](https://doi.org/10.1016/j.apmr.2018.09.014). American Congress of Rehabilitation Medicine. Dallas, TX.
 
 **S Moon**, M Kahya, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [The eyes as a window to understanding abstract reasoning in Parkinson's disease](https://doi.org/10.1016/j.apmr.2018.09.082). American Congress of Rehabilitation Medicine. Dallas, TX.
     
