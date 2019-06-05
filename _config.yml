@@ -6,3 +6,4 @@ google_analytics: UA-140852514-1
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
+  - jekyll-seo-tag
