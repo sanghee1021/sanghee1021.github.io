@@ -7,6 +7,8 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Updates
 
 * July 9, 2019 - Ph.D. Dissertation Defense :sunglasses:
+* June 11-16, 2019 - Milwaukee, WI
+* June 7, 2019 - Finally, my dissertation final draft was sent to committee members!
 * May 18-19, 2019 - [Graduation ceremony](./assets/img/sanghee graduation.png) @ Kansas City, KS and [commencement](./assets/img/sanghee with jay.png) @ Lawrence, KS :mortar_board:
 
 ## Random facts
