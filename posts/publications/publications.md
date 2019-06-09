@@ -62,6 +62,10 @@ exercise in females with fibromyalgia: A pilot study. _(In submission)_
 
 **S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Effects of Qigong exercise on inflammatory status in people with Parkinson's disease. _(In preparation)_
 
+CVM Sarmento, **S Moon**, W Liu. Low compliance to exercise in patients with fibromyalgia: What to blame, psychological or physiological factors? _(In preparation)_
+
+CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, M Maz, W Liu. The impact of qigong on immune responses due to a bout of high-intensity exercise. _(In preparation)_
+
 **S Moon**, HJ Song, K Kipp, VD Sharma, K Lyons, AE Akinwuntan, H Devos. Classification of Parkinsonism using artificial neural networks: A retrospective database study. _(In preparation)_
 
 VD Sharma, **S Moon**, H Devos, K Lyons, R Pahwa. Quantitative gait assessment of patients with essential tremor using wireless sensors. _(In preparation)_
