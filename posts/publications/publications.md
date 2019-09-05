@@ -1,4 +1,4 @@
-Academic publications
+Academic publications (Last update: June 2019)
 ---
 
 ### Published articles (peer-review)
