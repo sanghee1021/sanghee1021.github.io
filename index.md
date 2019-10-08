@@ -6,11 +6,12 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 
 ## Updates
 
+* Nov 8-10, 2019 - Milwaukee, WI
+* Nov 4-8, 2019 - Attending the American Congress of Rehabilitation Medicine Conference at Chicago, IL
 * Oct 26-27, 2019 - Invited Speaker at Harvard University, Boston, MA
 * Aug 26, 2019 - Postdoc Begins!
 * July 18- Aug 21, 2019 - Milwaukee, WI
 * July 9, 2019 - Ph.D. Dissertation Defense :sunglasses:
-* June 11-16, 2019 - Milwaukee, WI
 
 ## Random facts
 
