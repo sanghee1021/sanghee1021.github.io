@@ -6,6 +6,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 
 ## Updates
 
+* Nov 17-18, 2019 - Los Angeles, CA
 * Nov 8-10, 2019 - Milwaukee, WI
 * Nov 4-8, 2019 - Attending the American Congress of Rehabilitation Medicine Conference at Chicago, IL
 * Oct 26-27, 2019 - Invited Speaker at Harvard University, Boston, MA
