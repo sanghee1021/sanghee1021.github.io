@@ -7,6 +7,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Updates
 
 * Nov 17-18, 2019 - Los Angeles, CA
+* Nov 14, 2019 - Invited Speaker at World Usability Day at Cerner, Kansas City, MO
 * Nov 8-10, 2019 - Milwaukee, WI
 * Nov 4-8, 2019 - Attending the American Congress of Rehabilitation Medicine Conference at Chicago, IL
 * Oct 26-27, 2019 - Invited Speaker at Harvard University, Boston, MA
@@ -21,4 +22,4 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 * Like jogging :running:, hiking :mount_fuji:, and traveling national parks :evergreen_tree:. My wife and I have visited cities and national parks in [44 states](./assets/img/US travel map.png) "by car" :oncoming_automobile:.
 * :smile_cat: My cat's name is [Snickers](./assets/img/family pic.png)! The cutest cat ever.
 
-###### Last update: 7/12/2019
+###### Last update: 11/30/2019
