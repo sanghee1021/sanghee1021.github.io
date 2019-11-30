@@ -1,7 +1,11 @@
-Academic publications (Last update: June 2019)
+Academic publications (Last update: Nov 2019)
 ---
 
 ### Published articles (peer-review)
+
+M Kahya, **S Moon**, M Ranchet, R Vukas, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. (2019) [Neurophysiology of cognitive-motor interference in aging and age-related neurodegenerative conditions](https://doi.org/10.1016/j.exger.2019.110756). Experimental Gerontology. 128, 110756.
+
+AS Alqahtani, R Alajam, **S Moon**, CVM Sarmento, SM Eickmeyer, S Jernigan, IV Smirnova, W Liu. (2019) [Reduction of risk for cardiovascular disease in non-ambulatory stroke survivors using an assisted-walking aerobic exercise: A pilot study](https://gavinpublishers.com/articles/research-article/International-Journal-of-Cerebrovascular-Disease-and-Stroke-issn-2688-8734/reduction-of-risk-for-cardiovascular-disease-in-non-ambulatory-stroke-survivors-using-an-assisted-walking-aerobic-exercise-a-pilot-study). International Journal of Cerebrovascular Disease and Stroke. 2, 118.
 
 **S Moon**, CVM Sarmento, IV Smirnova, Y Colgrove, K Lyons, SM Lai, W Liu. (2019) [Effects of Qigong exercise on non-motor symptoms in Parkinson's disease: A protocol for a randomized controlled trial](https://doi.org/10.3390/medicines6010013). Medicines. 6(1), 13.
 
@@ -15,9 +19,17 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
     
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2017) [Qigong may alter TNF-alpha in serum and improve sleep in patients with Parkinson's disease](https://doi.org/10.3390/medicines4020023). Medicines. 4(2), 23.
 
+JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2019) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Oncology Nursing Forum _(Accepted; In Press)_.
+
 ---
 
 ### Published conference abstracts
+
+**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, A Akinwuntan, H Devos. (2019) [Scoping review on artificial neural networks in neurorehabilitation research: Current status and future avenues](https://doi.org/10.1016/j.apmr.2019.08.353). American Congress of Rehabilitation Medicine. Chicago, IL.
+
+V Sharma, **S Moon**, H Devos, K Lyons, R Pahwa (2019) [Quantitative gait assessment of patients with essential tremor using wireless sensor](https://doi.org/10.1002/mds.27795). International Congress of Parkinson's Disease and Movement Disorders, Nice, France.
+
+C Sarmento, T Pfeifer, **S Moon**, M Steinbacher, M Maz, SM Lai, Y Colgrove, IV Smirnova, W Liu. (2019) [The efficacy of Qigong on the main symptoms of fibromyalgia. A randomized clinical trial](http://www.acsmannualmeeting.org/wp-content/uploads/2019/06/ACSM19_Abstract_All-Pages.pdf). American College of Sport Medicine, Orlando, FL.
 
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2018) [Can a mindfulness exercise make your sleep better and change your inflammatory status in Parkinson's disease?](https://doi.org/10.1016/j.apmr.2018.09.014). American Congress of Rehabilitation Medicine. Dallas, TX.
 
@@ -35,15 +47,11 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 
 ### Submitted manuscripts
 
-M Kahya, **S Moon**, M Ranchet, R Vukas, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. Neurophysiology of cognitive-motor interference in aging and age-related neurodegenerative conditions. Experimental Neurology. _(Submitted; Under Review)_
-
-**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. Artificial neural networks in neurorehabilitation: A scoping review. Annals of Physical and Rehabilitation Medicine. _(Submitted; Under Review)_
+**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. Artificial neural networks in neurorehabilitation: A scoping review. Archives of Physical Medicine and Rehabilitation. _(Resubmitted; Under Review)_
 
 **S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study. BMJ Innovations. _(Submitted; Under Review)_
 
 CVM Sarmento, **S Moon**, T Pfeifer, W Liu. The altered immune response to exercise in patients with fibromyalgia before and after a mind-body intervention: A study protocol for a double-blinded randomized clinical trial. BMC Complementary and Alternative Medicine. _(Submitted; Under Review)_
-
-JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2018) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Supportive Care in Cancer. _(Submitted; Under Review)_
     
 **S Moon**, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation. _(Submitted; Under Review)_
     
