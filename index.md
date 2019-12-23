@@ -6,6 +6,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 
 ## Updates
 
+* Dec 16-18, 2019 - Ithaca, NY
 * Nov 17-18, 2019 - Los Angeles, CA
 * Nov 14, 2019 - Invited Speaker at World Usability Day at Cerner, Kansas City, MO
 * Nov 8-10, 2019 - Milwaukee, WI
