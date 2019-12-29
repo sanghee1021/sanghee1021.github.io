@@ -6,6 +6,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 
 ## Updates
 
+* Dec 26, 2019 - Officially accepted a faculty position at Ithaca College, Ithaca, NY.
 * Dec 16-18, 2019 - Ithaca, NY
 * Nov 17-18, 2019 - Los Angeles, CA
 * Nov 14, 2019 - Invited Speaker at World Usability Day at Cerner, Kansas City, MO
@@ -23,4 +24,4 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 * Like jogging :running:, hiking :mount_fuji:, and traveling national parks :evergreen_tree:. My wife and I have visited cities and national parks in [44 states](./assets/img/US travel map.png) "by car" :oncoming_automobile:.
 * :smile_cat: My cat's name is [Snickers](./assets/img/family pic.png)! The cutest cat ever.
 
-###### Last update: 11/30/2019
+###### Last update: 12/29/2019
