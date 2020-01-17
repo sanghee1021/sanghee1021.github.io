@@ -19,17 +19,23 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
     
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2017) [Qigong may alter TNF-alpha in serum and improve sleep in patients with Parkinson's disease](https://doi.org/10.3390/medicines4020023). Medicines. 4(2), 23.
 
-JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2019) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Oncology Nursing Forum _(Accepted; In Press)_.
+JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2019) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Oncology Nursing Forum. _(Accepted; In Press)_
+
+**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. Artificial neural networks in neurorehabilitation: A scoping review. NeuroRehabilitation. _(Accepted; In Press)_
 
 ---
 
 ### Published conference abstracts
 
+**S Moon**, CVM Sarmento, M Steinbacher, SM Lai, Y Colgrove, K Lyons, IV Smirnova, W Liu. (2020) [Qigong to improve sleep quality and inflammation in people with Parkinson’s disease: Potentials and challenges](https://apta.confex.com/apta/csm2020/meetingapp.cgi/Paper/24436). American Physical Therapy Association Combined Sections Meeting. Denver, CO.
+
+CVM Sarmento, **S Moon**, IV Smirnova, Y Colgrove, SM Lai, M Maz, W Liu. (2020) [Inflammatory response to a bout of high-intensity exercise in females with fibromyalgia](https://apta.confex.com/apta/csm2020/meetingapp.cgi/Paper/24452). American Physical Therapy Association Combined Sections Meeting. Denver, CO.
+
 **S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, A Akinwuntan, H Devos. (2019) [Scoping review on artificial neural networks in neurorehabilitation research: Current status and future avenues](https://doi.org/10.1016/j.apmr.2019.08.353). American Congress of Rehabilitation Medicine. Chicago, IL.
 
-V Sharma, **S Moon**, H Devos, K Lyons, R Pahwa (2019) [Quantitative gait assessment of patients with essential tremor using wireless sensor](https://doi.org/10.1002/mds.27795). International Congress of Parkinson's Disease and Movement Disorders, Nice, France.
+V Sharma, **S Moon**, H Devos, K Lyons, R Pahwa (2019) [Quantitative gait assessment of patients with essential tremor using wireless sensor](https://doi.org/10.1002/mds.27795). International Congress of Parkinson's Disease and Movement Disorders. Nice, France.
 
-C Sarmento, T Pfeifer, **S Moon**, M Steinbacher, M Maz, SM Lai, Y Colgrove, IV Smirnova, W Liu. (2019) [The efficacy of Qigong on the main symptoms of fibromyalgia. A randomized clinical trial](http://www.acsmannualmeeting.org/wp-content/uploads/2019/06/ACSM19_Abstract_All-Pages.pdf). American College of Sport Medicine, Orlando, FL.
+C Sarmento, T Pfeifer, **S Moon**, M Steinbacher, M Maz, SM Lai, Y Colgrove, IV Smirnova, W Liu. (2019) [The efficacy of Qigong on the main symptoms of fibromyalgia. A randomized clinical trial](http://www.acsmannualmeeting.org/wp-content/uploads/2019/06/ACSM19_Abstract_All-Pages.pdf). American College of Sport Medicine. Orlando, FL.
 
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2018) [Can a mindfulness exercise make your sleep better and change your inflammatory status in Parkinson's disease?](https://doi.org/10.1016/j.apmr.2018.09.014). American Congress of Rehabilitation Medicine. Dallas, TX.
 
@@ -47,9 +53,7 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 
 ### Submitted manuscripts
 
-**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. Artificial neural networks in neurorehabilitation: A scoping review. Archives of Physical Medicine and Rehabilitation. _(Resubmitted; Under Review)_
-
-**S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study. BMJ Innovations. _(Submitted; Under Review)_
+**S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study. International Journal of Neuroscience. _(Submitted; Under Review)_
 
 CVM Sarmento, **S Moon**, T Pfeifer, W Liu. The altered immune response to exercise in patients with fibromyalgia before and after a mind-body intervention: A study protocol for a double-blinded randomized clinical trial. BMC Complementary and Alternative Medicine. _(Submitted; Under Review)_
     
