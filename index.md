@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to Sanghee Moon's homepage. I am a postdoctoral researcher at the University of Kansas Medical Center. I love to talk any topics in rehabilitation science, physical therapy, clinical neurology, neuroscience, biomechanics, kinesiology, biochemistry, molecular biology, computer, virtual reality, machine learning, and artificial intelligence.
+Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation science, physical therapy, clinical neurology, neuroscience, biomechanics, kinesiology, biochemistry, molecular biology, computer, virtual reality, machine learning, and artificial intelligence.
 
 If you want to see my publications, [click here](./posts/publications/publications.md)!
 
