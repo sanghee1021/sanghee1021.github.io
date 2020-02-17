@@ -1,4 +1,4 @@
-Academic publications (Last update: Nov 2019)
+Academic publications (Last update: Feb 2020)
 ---
 
 ### Published articles (peer-review)
@@ -21,7 +21,7 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
 
 JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2019) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Oncology Nursing Forum. _(Accepted; In Press)_
 
-**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. Artificial neural networks in neurorehabilitation: A scoping review. NeuroRehabilitation. _(Accepted; In Press)_
+**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. (2020) Artificial neural networks in neurorehabilitation: A scoping review. NeuroRehabilitation. _(Accepted; In Press)_
 
 ---
 
@@ -54,23 +54,17 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 ### Submitted manuscripts
 
 **S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study. International Journal of Neuroscience. _(Submitted; Under Review)_
-
-CVM Sarmento, **S Moon**, T Pfeifer, W Liu. The altered immune response to exercise in patients with fibromyalgia before and after a mind-body intervention: A study protocol for a double-blinded randomized clinical trial. BMC Complementary and Alternative Medicine. _(Submitted; Under Review)_
     
 **S Moon**, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation. _(Submitted; Under Review)_
-    
-AS Alqahtani, R Alajam, **S Moon**, CVM Sarmento, SM Eickmeyer, S Jernigan, IV Smirnova, W Liu. Reduction of risk for cardiovascular disease in non-ambulatory stroke survivors using an assisted-walking aerobic exercise: A pilot study. Clinical Rehabilitation. _(Submitted)_
-    
-AS Alqahtani, R Alajam, **S Moon**, CVM Sarmento, IV Smirnova, M Pang, M Phadnis, W Liu. Changes in bone biomarkers after an 8-week walking exercise in non-ambulatory stroke survivors - A pilot study. _(In submission)_
-
+   
 CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, Y Colgrove, M Maz, W Liu. Immune response to a bout of high-intensity
-exercise in females with fibromyalgia: A pilot study. _(In submission)_
+exercise in females with fibromyalgia: A pilot study. Integrative Medicine Research. _(Submitted; Under Review)_
+
+**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Can Qigong exercise improve non-motor symptoms in people with Parkinson's disease? Complimentary Therapies in Clinical Practice. _(Submitted; Under Review)_
 
 ---
 
 ### Manuscripts in preparation
-
-**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Can Qigong exercise improve non-motor symptoms in people with Parkinson's disease? _(In preparation)_
 
 **S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Effects of Qigong exercise on inflammatory status in people with Parkinson's disease. _(In preparation)_
 
@@ -78,7 +72,7 @@ CVM Sarmento, **S Moon**, W Liu. Low compliance to exercise in patients with fib
 
 CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, M Maz, W Liu. The impact of qigong on immune responses due to a bout of high-intensity exercise. _(In preparation)_
 
-**S Moon**, HJ Song, K Kipp, VD Sharma, K Lyons, AE Akinwuntan, H Devos. Classification of Parkinsonism using artificial neural networks: A retrospective database study. _(In preparation)_
+**S Moon**, HJ Song, K Kipp, VD Sharma, K Lyons, AE Akinwuntan, H Devos. Classification of movement disorders using machine learning: A retrospective database study. _(In preparation)_
 
 VD Sharma, **S Moon**, H Devos, K Lyons, R Pahwa. Quantitative gait assessment of patients with essential tremor using wireless sensors. _(In preparation)_
 
