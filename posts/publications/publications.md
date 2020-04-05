@@ -1,7 +1,17 @@
-Academic publications (Last update: Feb 2020)
+Academic publications (Last update: Apr 2020)
 ---
 
 ### Published articles (peer-review)
+    
+**S Moon**, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation.  _(Accepted; In Press)_
+
+**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. [Can Qigong improve non-motor symptoms in people with Parkinson's disease - A pilot randomized controlled trial?](https://doi.org/10.1016/j.ctcp.2020.101169) Complimentary Therapies in Clinical Practice.
+
+**S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. [Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study](https://doi.org/10.1080/00207454.2020.1746309). International Journal of Neuroscience.
+
+**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. (2020) [Artificial neural networks in neurorehabilitation: A scoping review](https://doi.org/10.3233/NRE-192996). NeuroRehabilitation.
+
+JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2020) [Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors](https://doi.org/10.1188/20.ONF.203-212). Oncology Nursing Forum. 47(2), 203-212.
 
 M Kahya, **S Moon**, M Ranchet, R Vukas, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. (2019) [Neurophysiology of cognitive-motor interference in aging and age-related neurodegenerative conditions](https://doi.org/10.1016/j.exger.2019.110756). Experimental Gerontology. 128, 110756.
 
@@ -18,10 +28,6 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Pupillary
 **S Moon**, M Ranchet, M Tant, AE Akinwuntan, H Devos. (2017) [Comparison of unsafe driving across medical conditions](https://doi.org/10.1016/j.mayocp.2017.06.003). Mayo Clinic Proceedings. 92(9), 1341-1350. [[Youtube video]](https://youtu.be/AHI1rSI-op0) [[Editorial comment]](https://www.mayoclinicproceedings.org/article/S0025-6196(17)30570-0/fulltext#intraref0010a)
     
 **S Moon**, M Schmidt, IV Smirnova, Y Colgrove, W Liu. (2017) [Qigong may alter TNF-alpha in serum and improve sleep in patients with Parkinson's disease](https://doi.org/10.3390/medicines4020023). Medicines. 4(2), 23.
-
-JS Myers, N Alissa, M Mitchell, J Dai, J He, **S Moon**, A O'Dea, J Klemp, M Kurylo, AE Akinwuntan, H Devos. (2019) Pupillary response, driving simulation, and increased cognitive load: Assessment of cognitive effort for breast cancer survivors. Oncology Nursing Forum. _(Accepted; In Press)_
-
-**S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. (2020) Artificial neural networks in neurorehabilitation: A scoping review. NeuroRehabilitation. _(Accepted; In Press)_
 
 ---
 
@@ -53,27 +59,11 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 
 ### Submitted manuscripts
 
-**S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study. International Journal of Neuroscience. _(Submitted; Under Review)_
-    
-**S Moon**, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation. _(Submitted; Under Review)_
+**S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Pilot randomized controlled trial examining effects of Qigong on inflammatory status in people with Parkinson's disease. Integrative Medicine Research. _(Submitted; Under Review)_
    
 CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, Y Colgrove, M Maz, W Liu. Immune response to a bout of high-intensity
 exercise in females with fibromyalgia: A pilot study. Integrative Medicine Research. _(Submitted; Under Review)_
 
-**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Can Qigong exercise improve non-motor symptoms in people with Parkinson's disease? Complimentary Therapies in Clinical Practice. _(Submitted; Under Review)_
-
----
-
-### Manuscripts in preparation
-
-**S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Effects of Qigong exercise on inflammatory status in people with Parkinson's disease. _(In preparation)_
-
-CVM Sarmento, **S Moon**, W Liu. Low compliance to exercise in patients with fibromyalgia: What to blame, psychological or physiological factors? _(In preparation)_
-
-CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, M Maz, W Liu. The impact of qigong on immune responses due to a bout of high-intensity exercise. _(In preparation)_
-
-**S Moon**, HJ Song, K Kipp, VD Sharma, K Lyons, AE Akinwuntan, H Devos. Classification of movement disorders using machine learning: A retrospective database study. _(In preparation)_
-
-VD Sharma, **S Moon**, H Devos, K Lyons, R Pahwa. Quantitative gait assessment of patients with essential tremor using wireless sensors. _(In preparation)_
+AS Alqahtani, R Alajam, **S Moon**, M Sarmento, IV Smirnova, M Pang, M Phadnis, W Liu. Changes in bone biomarkers after an 8-week walking exercise in non-ambulatory stroke survivors - A pilot study. Osteoporosis International. _(Submitted; Under Review)_
 
 [<< Back to Home](../../index.md)
