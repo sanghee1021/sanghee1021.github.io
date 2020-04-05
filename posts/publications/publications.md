@@ -3,11 +3,11 @@ Academic publications (Last update: Apr 2020)
 
 ### Published articles (peer-review)
     
-**S Moon**, CVM Sarmento, Y Colgrove, W Liu. Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation.  _(Accepted; In Press)_
+**S Moon**, CVM Sarmento, Y Colgrove, W Liu. (2020) Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation.  _(Accepted; In Press)_
 
-**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. [Can Qigong improve non-motor symptoms in people with Parkinson's disease - A pilot randomized controlled trial?](https://doi.org/10.1016/j.ctcp.2020.101169) Complimentary Therapies in Clinical Practice.
+**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. (2020) [Can Qigong improve non-motor symptoms in people with Parkinson's disease - A pilot randomized controlled trial?](https://doi.org/10.1016/j.ctcp.2020.101169) Complimentary Therapies in Clinical Practice.
 
-**S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. [Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study](https://doi.org/10.1080/00207454.2020.1746309). International Journal of Neuroscience.
+**S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2020) [Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study](https://doi.org/10.1080/00207454.2020.1746309). International Journal of Neuroscience.
 
 **S Moon**, P Ahmadnezhad, HJ Song, J Thompson, K Kipp, AE Akinwuntan, H Devos. (2020) [Artificial neural networks in neurorehabilitation: A scoping review](https://doi.org/10.3233/NRE-192996). NeuroRehabilitation.
 
