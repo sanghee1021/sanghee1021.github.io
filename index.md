@@ -1,11 +1,12 @@
 ## Welcome
 
-Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation science, physical therapy, clinical neurology, neuroscience, biomechanics, kinesiology, biochemistry, molecular biology, computer, virtual reality, machine learning, and artificial intelligence.
+Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation science, physical therapy, clinical neurology, neuroscience, biomechanics, kinesiology, biochemistry, molecular biology, computers, virtual reality, machine learning, and artificial intelligence.
 
 If you want to see my publications, [click here](./posts/publications/publications.md)!
 
 ## Updates
 
+* Mar 16-Present - Working from home due to Covid-19 :fearful:
 * Feb 13-15, 2020 - Attending the APTA Combined Sections Meeting, Denver, CO.
 * Dec 26, 2019 - Officially accepted a faculty position at Ithaca College, Ithaca, NY.
 * Dec 16-18, 2019 - Ithaca, NY
@@ -21,8 +22,8 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Random facts
 
 * A die-hard fan of [Kansas Jayhawk Basketball](https://en.wikipedia.org/wiki/Kansas_Jayhawks_men%27s_basketball) :basketball:. Rock Chalk!! Once a jayhawk, always a jayhawk.
-* Love Kansas City Chiefs :football: and Royals :baseball:. I really want to see [Pat Mahomes](https://en.wikipedia.org/wiki/Patrick_Mahomes) and Chiefs win it all this season. Then, it acutally happened! [Super Bowl LIV](https://en.wikipedia.org/wiki/Super_Bowl_LIV)
+* Love Kansas City Chiefs :football: and Royals :baseball:. I really want to see [Pat Mahomes](https://en.wikipedia.org/wiki/Patrick_Mahomes) and Chiefs win it all this season. Then, it acutally happened! :trophy: [Super Bowl LIV](https://en.wikipedia.org/wiki/Super_Bowl_LIV)
 * Like jogging :running:, hiking :mount_fuji:, and traveling national parks :evergreen_tree:. [My wife](https://hyunjung1031.github.io/) and I have visited cities and national parks in [44 states](./assets/img/US travel map.png) "by car" :oncoming_automobile:.
 * :smile_cat: My cat's name is [Snickers](./assets/img/family pic.png)! The cutest cat ever.
 
-###### Last update: 02/16/2020
+###### Last update: 04/04/2020
