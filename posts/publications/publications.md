@@ -63,7 +63,7 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 
 **S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Pilot randomized controlled trial examining effects of Qigong on inflammatory status in people with Parkinson's disease. Integrative Medicine Research. _(Submitted; Under Review)_
 
-**S Moon**, HJ Song, VD Sharma, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. Classification of Parkinson’s disease and essential tremor based on gait and balance characteristics from wearable motion sensors via machine learning techniques: A data-driven approach. Journal of NeuroEngineering and Rehabilitation _(Submitted; Under Review)_
+**S Moon**, HJ Song, VD Sharma, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. Classification of Parkinson’s disease and essential tremor based on gait and balance characteristics from wearable motion sensors via machine learning techniques: A data-driven approach. Journal of NeuroEngineering and Rehabilitation. _(Submitted; Under Review)_
 
 AS Alqahtani, R Alajam, **S Moon**, M Sarmento, IV Smirnova, M Pang, M Phadnis, W Liu. Changes in bone biomarkers after an 8-week walking exercise in non-ambulatory stroke survivors - A pilot study. Osteoporosis International. _(Submitted; Under Review)_
 
