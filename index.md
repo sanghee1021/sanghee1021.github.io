@@ -6,6 +6,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 
 ## Updates
 
+* Jun 12-17 - Milwaukee, WI and Ithaca, NY
 * Mar 16-Present - Working from home due to Covid-19 :fearful:
 * Feb 13-15, 2020 - Attending the APTA Combined Sections Meeting, Denver, CO.
 * Dec 26, 2019 - Officially accepted a faculty position at Ithaca College, Ithaca, NY.
@@ -26,4 +27,4 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 * Like jogging :running:, hiking :mount_fuji:, and traveling national parks :evergreen_tree:. [My wife](https://hyunjung1031.github.io/) and I have visited cities and national parks in [44 states](./assets/img/US travel map.png) "by car" :oncoming_automobile:.
 * :smile_cat: My cat's name is [Snickers](./assets/img/family pic.png)! The cutest cat ever.
 
-###### Last update: 04/04/2020
+###### Last update: 05/25/2020
