@@ -7,7 +7,7 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 ## Updates
 
 * Jun 12-17 - Milwaukee, WI and Ithaca, NY
-* Mar 16-Present - Working from home due to Covid-19 :fearful:
+* Mar 16 - May 19,2020 - Working from home due to Covid-19 :fearful:
 * Feb 13-15, 2020 - Attending the APTA Combined Sections Meeting, Denver, CO.
 * Dec 26, 2019 - Officially accepted a faculty position at Ithaca College, Ithaca, NY.
 * Dec 16-18, 2019 - Ithaca, NY
