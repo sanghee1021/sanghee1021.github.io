@@ -5,9 +5,9 @@ Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation 
 If you want to see my publications, [click here](./posts/publications/publications.md)!
 
 ## Updates
-
-* Jun 12-17 - Milwaukee, WI and Ithaca, NY
-* Mar 16 - May 19,2020 - Working from home due to Covid-19 :fearful:
+* Jul 3, 2020 - The last day at KU Medical Center.
+* Jun 12-17, 2020 - Milwaukee, WI and Ithaca, NY
+* Mar 16 - May 19, 2020 - Working from home due to Covid-19 :fearful:
 * Feb 13-15, 2020 - Attending the APTA Combined Sections Meeting, Denver, CO.
 * Dec 26, 2019 - Officially accepted a faculty position at Ithaca College, Ithaca, NY.
 * Dec 16-18, 2019 - Ithaca, NY
