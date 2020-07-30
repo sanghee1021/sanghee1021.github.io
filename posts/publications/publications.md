@@ -3,11 +3,11 @@ Academic publications (Last update: July 2020)
 
 ### Published articles (peer-review)
     
-**S Moon**, CVM Sarmento, Y Colgrove, W Liu. (2020) [Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation](https://doi.org/10.1016/j.apmr.2020.03.024) Archives of Physical Medicine and Rehabilitation.
+**S Moon**, CVM Sarmento, Y Colgrove, W Liu. (2020) [Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation](https://doi.org/10.1016/j.apmr.2020.03.024). Archives of Physical Medicine and Rehabilitation.
    
-CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, Y Colgrove, M Maz, W Liu. (2020) [The therapeutic efficacy of Qigong exercise on the main symptoms of fibromyalgia: A pilot randomized clinical trial](https://www.sciencedirect.com/science/article/pii/S2213422020300482?via%3Dihub) Integrative Medicine Research.
+CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, Y Colgrove, M Maz, W Liu. (2020) [The therapeutic efficacy of Qigong exercise on the main symptoms of fibromyalgia: A pilot randomized clinical trial](https://www.sciencedirect.com/science/article/pii/S2213422020300482?via%3Dihub). Integrative Medicine Research.
 
-**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. (2020) [Can Qigong improve non-motor symptoms in people with Parkinson's disease - A pilot randomized controlled trial?](https://doi.org/10.1016/j.ctcp.2020.101169) Complimentary Therapies in Clinical Practice.
+**S Moon**, CVM Sarmento, M Steinbacher, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. (2020) [Can Qigong improve non-motor symptoms in people with Parkinson's disease - A pilot randomized controlled trial?](https://doi.org/10.1016/j.ctcp.2020.101169). Complimentary Therapies in Clinical Practice.
 
 **S Moon**, M Kahya, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2020) [Cognitive workload during verbal abstract reasoning in Parkinson's disease: A pilot study](https://doi.org/10.1080/00207454.2020.1746309). International Journal of Neuroscience.
 
