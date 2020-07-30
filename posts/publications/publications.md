@@ -1,9 +1,9 @@
-Academic publications (Last update: May 2020)
+Academic publications (Last update: July 2020)
 ---
 
 ### Published articles (peer-review)
     
-**S Moon**, CVM Sarmento, Y Colgrove, W Liu. (2020) Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation.  _(Accepted; In Press)_
+**S Moon**, CVM Sarmento, Y Colgrove, W Liu. (2020) [Complementary and alternative medicine for people with Parkinson's disease". Archives of Physical Medicine and Rehabilitation](https://doi.org/10.1016/j.apmr.2020.03.024) Archives of Physical Medicine and Rehabilitation.
    
 CVM Sarmento, **S Moon**, IV Smirnova, SM Lai, Y Colgrove, M Maz, W Liu. (2020) [The therapeutic efficacy of Qigong exercise on the main symptoms of fibromyalgia: A pilot randomized clinical trial](https://www.sciencedirect.com/science/article/pii/S2213422020300482?via%3Dihub) Integrative Medicine Research.
 
@@ -61,9 +61,9 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 
 ### Submitted manuscripts
 
-**S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Pilot randomized controlled trial examining effects of Qigong on inflammatory status in people with Parkinson's disease. Integrative Medicine Research. _(Submitted; Under Review)_
+**S Moon**, CVM Sarmento, IV Smirnova, K Lyons, Y Colgrove, SM Lai, W Liu. Pilot randomized controlled trial examining effects of Qigong on inflammatory status in people with Parkinson's disease. Journal of Complementary and Integrative Medicine. _(Submitted; Under Review)_
 
-**S Moon**, HJ Song, VD Sharma, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. Classification of Parkinson’s disease and essential tremor based on gait and balance characteristics from wearable motion sensors via machine learning techniques: A data-driven approach. Journal of NeuroEngineering and Rehabilitation. _(Submitted; Under Review)_
+**S Moon**, HJ Song, VD Sharma, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. Classification of Parkinson’s disease and essential tremor based on gait and balance characteristics from wearable motion sensors via machine learning techniques: A data-driven approach. Journal of NeuroEngineering and Rehabilitation. _(Submitted; Major Revision)_
 
 AS Alqahtani, R Alajam, **S Moon**, M Sarmento, IV Smirnova, M Pang, M Phadnis, W Liu. Changes in bone biomarkers after an 8-week walking exercise in non-ambulatory stroke survivors - A pilot study. Osteoporosis International. _(Submitted; Under Review)_
 
