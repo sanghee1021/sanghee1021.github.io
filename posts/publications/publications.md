@@ -65,6 +65,4 @@ M Kahya, **S Moon**, K Lyons, R Pahwa, AE Akinwuntan, H Devos. (2018) [Increased
 
 **S Moon**, HJ Song, VD Sharma, KE Lyons, R Pahwa, AE Akinwuntan, H Devos. Classification of Parkinson’s disease and essential tremor based on gait and balance characteristics from wearable motion sensors via machine learning techniques: A data-driven approach. Journal of NeuroEngineering and Rehabilitation. _(Submitted; Major Revision)_
 
-AS Alqahtani, R Alajam, **S Moon**, M Sarmento, IV Smirnova, M Pang, M Phadnis, W Liu. Changes in bone biomarkers after an 8-week walking exercise in non-ambulatory stroke survivors - A pilot study. Osteoporosis International. _(Submitted; Under Review)_
-
 [<< Back to Home](../../index.md)
