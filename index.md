@@ -5,7 +5,7 @@ Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation 
 If you want to see my publications, [click here](./posts/publications/publications.md)!
 
 ## Updates
-* Aug 17, 2020 - Start working as Assistant Professor at Ithaca College, NY
+* Aug 17, 2020 - Start working as Assistant Professor at Ithaca College, NY.
 * Jul 3, 2020 - The last day at KU Medical Center.
 * Jun 12-17, 2020 - Milwaukee, WI and Ithaca, NY
 * Mar 16 - May 19, 2020 - Working from home due to Covid-19 :fearful:
