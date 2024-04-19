@@ -4,7 +4,7 @@ Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation 
 
 If you want to see my publications, [click here](./posts/publications/publications.md)!
 
-I don't update this homepage anymore --> Go and check my lab website instead [MOVE Lab](https://sites.google.com/view/unh-move-lab).
+## I don't update this homepage anymore --> Go and check my lab website instead [MOVE Lab](https://sites.google.com/view/unh-move-lab).
 
 ## Updates
 * Jan 16, 2024 - New job @ University of New Hampshire, Durham, NH.
