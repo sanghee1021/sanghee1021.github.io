@@ -4,7 +4,10 @@ Welcome to Sanghee Moon's homepage. I love to talk any topics in rehabilitation 
 
 If you want to see my publications, [click here](./posts/publications/publications.md)!
 
+I don't update this homepage anymore --> Go and check my lab website instead [MOVE Lab](https://sites.google.com/view/unh-move-lab).
+
 ## Updates
+* Jan 16, 2024 - New job @ University of New Hampshire, Durham, NH.
 * Aug 17, 2020 - Start working as Assistant Professor at Ithaca College, NY.
 * Jul 3, 2020 - The last day at KU Medical Center.
 * Jun 12-17, 2020 - Milwaukee, WI and Ithaca, NY
@@ -28,4 +31,4 @@ If you want to see my publications, [click here](./posts/publications/publicatio
 * Like jogging :running:, hiking :mount_fuji:, and traveling national parks :evergreen_tree:. [My wife](https://hyunjung1031.github.io/) and I have visited cities and national parks in [44 states](./assets/img/US travel map.png) "by car" :oncoming_automobile:.
 * :smile_cat: My cat's name is [Snickers](./assets/img/family pic.png)! The cutest cat ever.
 
-###### Last update: 07/29/2020
+###### Last update: 04/19/2024
